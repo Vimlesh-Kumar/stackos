@@ -1,0 +1,12 @@
+{
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "checking system details",
+  "main": "index.js",
+  "author": "Vimlesh Kumar <vimlesh11072000@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/Vimlesh-Kumar/stackos",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
